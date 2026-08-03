@@ -67,4 +67,4 @@ Dashboard screenshots are available in this repository.
 ![Finance Dashboard](Finance_Dashboard.png)
 
 ### Doctor Performance
-![Doctor Performance](Doctor Performance.png)
+![Doctor Performance](Doctor_Performance.png)
