@@ -58,7 +58,7 @@ Dashboard screenshots are available in this repository.
 ![Home](Home.png)
 
 ### Executive Summary
-![Executive Summary](Executive Summary.png)
+![Executive Summary](Executive_Summary.png)
 
 ### Patient Analysis
 ![Patient Analysis](Patient Analysis.png)
