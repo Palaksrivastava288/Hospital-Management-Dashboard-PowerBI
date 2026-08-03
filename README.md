@@ -61,7 +61,7 @@ Dashboard screenshots are available in this repository.
 ![Executive Summary](Executive_Summary.png)
 
 ### Patient Analysis
-![Patient Analysis](Patient Analysis.png)
+![Patient Analysis](Patient_Analysis.png)
 
 ### Finance Dashboard
 ![Finance Dashboard](Finance Dashboard.png)
