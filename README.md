@@ -51,3 +51,20 @@ The data is stored and managed using PostgreSQL and connected to Power BI for re
   
 ## 📷 Dashboard Preview
 Dashboard screenshots are available in this repository.
+
+## Dashboard Screenshots
+
+### Home
+![Home](Home.png)
+
+### Executive Summary
+![Executive Summary](Executive Summary.png)
+
+### Patient Analysis
+![Patient Analysis](Patient Analysis.png)
+
+### Finance Dashboard
+![Finance Dashboard](Finance Dashboard.png)
+
+### Doctor Performance
+![Doctor Performance](Doctor Performance.png)
